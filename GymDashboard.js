@@ -28,14 +28,14 @@ var clientList = [
     Subscription: false
   }, {
     ID: 8333463863,
-    FirstName: "Victor",
-    LastName: "Lepe",
-    Name: "Victor Lepe",
+    FirstName: "Luis",
+    LastName: "Contreras",
+    Name: "Luis Contreras",
     DoB: "5/3/1999",
-    Street: "Maestro Antonio Caso",
+    Street: "San Cosme ",
     "Street Number": 169,
-    City: "Cuauhtemoc",
-    State: "DF",
+    City: "Ags",
+    State: "Ags",
     "ZIP Code": 06500,
     Phone: 8333463863,
     Subscription: true
