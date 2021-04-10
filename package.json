@@ -69,5 +69,9 @@
     "prebuild": "./scripts/prebuild.sh",
     "test": "./scripts/test.sh"
   },
-  "version": "1.2.4"
+  "version": "1.2.4",
+  "engines": {
+    "node": ">=12"
+  }
 }
+
